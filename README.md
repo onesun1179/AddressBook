@@ -1,1 +1,1 @@
-![Alt text](./explain.jpg)
+![Alt text](./explain.PNG)
